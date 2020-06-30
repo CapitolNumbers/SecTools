@@ -1,7 +1,9 @@
+100% credit to @Swissky [https://github.com/swisskyrepo] for providing this! 
+
 # Payloads All The Things
 A list of useful payloads and bypasses for Web Application Security.
 Feel free to improve with your payloads and techniques !
-I <3 pull requests :)
+Swissky <3 pull requests :)
 
 All sections contain:
   - README.md - vulnerability description and how to exploit it
